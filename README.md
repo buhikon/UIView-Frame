@@ -1,7 +1,7 @@
-UIColor-HexString
+UIView-Frame
 =================
 
-UIColor-HexString creates UIColor instance with HEX string.
+UIView-Frame provides easy-access to view.frame
 
 
 ## How To Use
